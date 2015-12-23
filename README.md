@@ -1,3 +1,3 @@
 # Entry Puzzle
 Please download the [`puzzle.ipynb`](puzzle.ipynb) file and edit it either using the free [Try Jupyter](https://tmpnb.org) service or
-a local installation of Jupyter/IPython. Attach the edited file with your application.
+a local installation of Jupyter/IPython. Attach the edited file with your application either directly in Notebook format (`.ipynb`) or as a PDF.
